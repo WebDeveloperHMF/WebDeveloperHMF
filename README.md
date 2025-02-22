@@ -1,4 +1,4 @@
-<img src="https://www.canva.com/design/DAGf0bxcMyY/2P8W7kNSHAz58NWvgFUNZg/edit?utm_content=DAGf0bxcMyY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"
+
 
 h1 align="center">Hi 👋, I'm H M FORKAN HOWLADER</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
