@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/rsXgL6Bc/1.png">
+<img src="">
 
 <h2>Hi 👋, I'm H M FORKAN HOWLADER</h2>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
