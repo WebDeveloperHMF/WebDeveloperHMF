@@ -1,5 +1,5 @@
 
-<img src="https://i.postimg.cc/j5X2gJsn/Untitled-design-5.png">
+<img class=style:in-line-block src="https://i.postimg.cc/j5X2gJsn/Untitled-design-5.png">
 
 <h2 align="center">Hi 👋, I'm H M FORKAN HOWLADER</h2>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
